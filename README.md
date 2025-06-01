@@ -1,2 +1,2 @@
 # Code.20250601.1038
-[C#][.NET] ConsoleApp Template
+[C#][.NET] Console Application Template
